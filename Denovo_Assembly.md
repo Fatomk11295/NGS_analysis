@@ -131,7 +131,7 @@ Spades manual for usage)
 
 3.	What is the GC content of the assembled genome? How does that compare to what is mentioned in the paper above?
 
-    - The GC content of the assembeled genome is **65.57 %** as calculated by quast tool. The measured GC% value is relatively similar to the one mentioned in the papaer (65%).
+    - The GC content of the assembled genome is **65.57 %** as calculated by quast tool. The measured GC% value is relatively similar to the one mentioned in the paper (65%)..
 
 4.	How many contigs were generated?
 
@@ -139,8 +139,9 @@ Spades manual for usage)
 
 5.	What is N50 and NG50 of the assembled genome and what do they mean?
 
-    - **N50** is the length for which the collection of all contigs of that lenght or longer covers at least half an assembly. In our expirement N50 is 15053.
-    - **NG50** is the length for which the collection of all contigs of that length or longer covers at least half the reference genome. In our expirement NG50 is not calculated, although both fasta and gff files of the reference genome are provided.
+    - **N50** is the length for which the collection of all contigs of that length or longer covers at least half an assembly. In our experiment N50 is 15053.
+    - **NG50** is the length for which the collection of all contigs of that length or longer covers at least half the reference genome. In our experiment NG50 is not calculated, although both fasta and gff files of the reference genome are provided.
+
 
 
 6.	What is the size of the assembled genome?
